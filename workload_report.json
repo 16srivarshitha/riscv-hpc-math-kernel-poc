@@ -1,0 +1,1710 @@
+{
+  "Stencil / PDE": [
+    {
+      "name": "Elmer",
+      "link": "",
+      "description": "FEA Software for Multiphysics Problems",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Code-Aster",
+      "link": "",
+      "description": "Structural and thermomechanical software",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CalculiX",
+      "link": "",
+      "description": "3D Structural Finite Element Program",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "FreeFEM",
+      "link": "",
+      "description": "Finite element software family",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Impact",
+      "link": "",
+      "description": "Explicit dynamic finite element program",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "XmdS",
+      "link": "",
+      "description": "Extensible multi-dimensional simulator",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "GetDP",
+      "link": "",
+      "description": "Generalized environment for discrete problems",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "FElt",
+      "link": "",
+      "description": "Solid mechanics FEA",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "OOFEM",
+      "link": "",
+      "description": "General finite element program",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "TOCHNOG",
+      "link": "",
+      "description": "Free finite element program",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "FEniCS",
+      "link": "",
+      "description": "Automated ODE/PDE solver",
+      "author": "",
+      "license": "GPL+LGPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "SLFFEA",
+      "link": "",
+      "description": "Structural FEA solver",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "FELyX",
+      "link": "",
+      "description": "General FEM toolbox",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "ALBERTA",
+      "link": "",
+      "description": "General FEM library",
+      "author": "",
+      "license": "GPL3",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Chombo",
+      "link": "",
+      "description": "PDE solver on block-structured AMR grids",
+      "author": "",
+      "license": "BSD",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "FiPy",
+      "link": "",
+      "description": "Python-based finite volume PDE solver",
+      "author": "",
+      "license": "Public domain",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Julian",
+      "link": "",
+      "description": "BEM for Laplace and elastic mechanics",
+      "author": "",
+      "license": "GPL",
+      "category": "PDE / FEA",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "OpenFOAM",
+      "link": "",
+      "description": "General CFD toolbox with pre-processor",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "OpenFlower",
+      "link": "",
+      "description": "CFD solver for turbulent incompressible Navier-Stokes",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Gerris",
+      "link": "",
+      "description": "Variable density NS solver with AMR",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Code_Saturne",
+      "link": "",
+      "description": "General purpose CFD software",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "DUNS",
+      "link": "",
+      "description": "Diagonalized Upwind Navier Stokes Code",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "SLFCFD",
+      "link": "",
+      "description": "San Le's Free CFD",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "PETSc-FEM",
+      "link": "",
+      "description": "Multi-physics FEM based on PETSc",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "TYPHON",
+      "link": "",
+      "description": "Platform for gas dynamics methods",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "OpenFVM",
+      "link": "",
+      "description": "Finite volume method solver",
+      "author": "",
+      "license": "GPL",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Incompact3d",
+      "link": "",
+      "description": "High-order flow solver for incompressible DNS",
+      "author": "",
+      "license": "CeCILL-C",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "PyFR",
+      "link": "",
+      "description": "Fluid flow on unstructured grids",
+      "author": "",
+      "license": "BSD",
+      "category": "CFD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Meep",
+      "link": "",
+      "description": "FDTD simulation for EM systems",
+      "author": "",
+      "license": "GPL",
+      "category": "Electromagnetism",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "MIT Photonic Bands",
+      "link": "",
+      "description": "Band structures of periodic dielectric structures",
+      "author": "",
+      "license": "GPL",
+      "category": "Electromagnetism",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "NEMO",
+      "link": "",
+      "description": "Ocean modelling framework",
+      "author": "",
+      "license": "CeCILL",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CAM",
+      "link": "",
+      "description": "Global atmospheric model",
+      "author": "",
+      "license": "Open Source",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CESM",
+      "link": "",
+      "description": "Coupled global climate model",
+      "author": "",
+      "license": "Open Source",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "ICON",
+      "link": "",
+      "description": "Icosahedral non-hydrostatic atm model",
+      "author": "",
+      "license": "Academic",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Elmer/Ice",
+      "link": "",
+      "description": "Ice sheet flow modeling",
+      "author": "",
+      "license": "GPL",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "WRF",
+      "link": "",
+      "description": "Weather Research and Forecasting model",
+      "author": "",
+      "license": "Custom",
+      "category": "Climate",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CloverLeaf",
+      "link": "",
+      "description": "Hydrodynamics mini-app",
+      "author": "",
+      "license": "Public domain",
+      "category": "Benchmarking",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "SST",
+      "link": "",
+      "description": "Structural Simulation Toolkit",
+      "author": "",
+      "license": "BSD",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "PFLOTRAN",
+      "link": "",
+      "description": "Subsurface flow simulation",
+      "author": "",
+      "license": "BSD",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Cardioid",
+      "link": "",
+      "description": "Cardiac simulation tool",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "AWP-ODC",
+      "link": "",
+      "description": "Anelastic Wave Propagation for earthquake sim",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "BQCD",
+      "link": "",
+      "description": "Lattice QCD fermion solver",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CADISHI",
+      "link": "",
+      "description": "Euclidean distance histograms on GPU",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CASTRO",
+      "link": "",
+      "description": "Compressible astrophysical hydrodynamics",
+      "author": "",
+      "license": "BSD",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Chemora",
+      "link": "",
+      "description": "Differential equations on GPU clusters",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Cholla",
+      "link": "",
+      "description": "Astrophysical hydrodynamics cosmology",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Chroma",
+      "link": "",
+      "description": "Lattice QCD quark-gluon calculations",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CPS",
+      "link": "",
+      "description": "Lattice QCD modular code",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "GAMER",
+      "link": "",
+      "description": "GPU-accelerated AMR for astrophysics",
+      "author": "",
+      "license": "MIT",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "GPU-AH",
+      "link": "",
+      "description": "Astrophysics code for cosmic strings",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "GPUwalls",
+      "link": "",
+      "description": "Cosmology domain wall simulation",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "WPP",
+      "link": "",
+      "description": "Seismic wave propagation code",
+      "author": "",
+      "license": "LGPL",
+      "category": "Simulation",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Enzo",
+      "link": "",
+      "description": "AMR code for astrophysics",
+      "author": "",
+      "license": "BSD",
+      "category": "Astrophysics",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "CatBoost",
+      "link": "",
+      "description": "Gradient boosting with categorical features",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Salome",
+      "link": "",
+      "description": "Graphical FEA pre/post with CAD",
+      "author": "",
+      "license": "LGPL",
+      "category": "Pre/Post CAD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Gmsh",
+      "link": "",
+      "description": "Graphical FEA CAD tool and mesher",
+      "author": "",
+      "license": "GPL",
+      "category": "Pre/Post CAD",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "6X",
+      "link": "",
+      "description": "Reservoir Simulation on Tesla",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Echelon",
+      "link": "",
+      "description": "GPU-based reservoir simulator",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "DecisionSpace",
+      "link": "",
+      "description": "E&P platform for geoscience and drilling",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "tNavigator",
+      "link": "",
+      "description": "Integrated reservoir simulation",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "GeoDepth",
+      "link": "",
+      "description": "Seismic Interpretation Suite",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "Geoteric",
+      "link": "",
+      "description": "3D seismic interpretation",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "AxRTM",
+      "link": "",
+      "description": "Reverse Time Migration Software",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    },
+    {
+      "name": "HUESpace",
+      "link": "",
+      "description": "Seismic compression and imaging SDK",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Oil & Gas",
+      "motif": "Stencil / PDE"
+    }
+  ],
+  "Dense Linear Algebra (DLA)": [
+    {
+      "name": "abinit",
+      "link": "",
+      "description": "DFT for molecules and crystals",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "AMBER",
+      "link": "",
+      "description": "Molecular dynamics for biomolecular sims",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Folding@Home",
+      "link": "",
+      "description": "Distributed protein folding simulation",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GALAMOST",
+      "link": "",
+      "description": "GPU-accelerated soft matter MD",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GENESIS",
+      "link": "",
+      "description": "Generalized-Ensemble MD",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "HALMD",
+      "link": "",
+      "description": "Large-scale MD for liquids",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "HOOMD-Blue",
+      "link": "",
+      "description": "Particle dynamics toolkit for GPUs",
+      "author": "",
+      "license": "BSD",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "MELD",
+      "link": "",
+      "description": "Integrative MD plugin for OpenMM",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "MOE",
+      "link": "",
+      "description": "Integrated drug discovery suite",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "myPresto",
+      "link": "",
+      "description": "Computational drug discovery suite",
+      "author": "",
+      "license": "Open-source",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "OpenMM",
+      "link": "",
+      "description": "Molecular dynamics on HPC+GPU",
+      "author": "",
+      "license": "MIT",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "PolyFTS",
+      "link": "",
+      "description": "Polymer self-assembly simulations",
+      "author": "",
+      "license": "Open-source",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "SOP-GPU",
+      "link": "",
+      "description": "Langevin dynamics for SOP model",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GAMESS",
+      "link": "",
+      "description": "Ab initio quantum chemistry",
+      "author": "",
+      "license": "Custom",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "QUICK",
+      "link": "",
+      "description": "GPU ab initio for HF and DFT",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "RMG",
+      "link": "",
+      "description": "Real-space DFT for extreme scalability",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "TeraChem",
+      "link": "",
+      "description": "GPU quantum chemistry software",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "VASP",
+      "link": "",
+      "description": "Ab initio quantum MD with plane waves",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ACES III",
+      "link": "",
+      "description": "High-performance quantum chemistry",
+      "author": "",
+      "license": "Open-source",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ACES 4",
+      "link": "",
+      "description": "Quantum chemistry with GPU infrastructure",
+      "author": "",
+      "license": "Open-source",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ADF",
+      "link": "",
+      "description": "DFT electronic structure calculations",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "BigDFT",
+      "link": "",
+      "description": "Wavelet-based DFT for materials",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "BrianQC",
+      "link": "",
+      "description": "GPU quantum chemistry library",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "DIRAC",
+      "link": "",
+      "description": "Relativistic quantum chemistry",
+      "author": "",
+      "license": "LGPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "LSDalton",
+      "link": "",
+      "description": "Linear-scaling quantum chemistry",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "NWChemEx",
+      "link": "",
+      "description": "Exascale quantum chemistry",
+      "author": "",
+      "license": "Eclipse",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Q-Chem",
+      "link": "",
+      "description": "High-performance quantum chemistry",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "QBOX",
+      "link": "",
+      "description": "First-principles MD with plane-wave DFT",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Quantum ESPRESSO",
+      "link": "",
+      "description": "Electronic structure and materials modeling",
+      "author": "",
+      "license": "GPL",
+      "category": "Comp. Chemistry",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "LAMMPS",
+      "link": "",
+      "description": "Classical MD for materials modeling",
+      "author": "",
+      "license": "GPL",
+      "category": "Mol. Dynamics",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GROMACS",
+      "link": "",
+      "description": "MD for biomolecular systems",
+      "author": "",
+      "license": "GPL",
+      "category": "Mol. Dynamics",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "NAMD",
+      "link": "",
+      "description": "Parallel molecular dynamics",
+      "author": "",
+      "license": "Free noncomm",
+      "category": "Mol. Dynamics",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Tinker-HP",
+      "link": "",
+      "description": "High-performance MD package",
+      "author": "",
+      "license": "Academic",
+      "category": "Mol. Dynamics",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "CP2K",
+      "link": "",
+      "description": "Molecular simulations for various systems",
+      "author": "",
+      "license": "GPL",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "NWChem",
+      "link": "",
+      "description": "Quantum chemistry for molecular and periodic systems",
+      "author": "",
+      "license": "ECL",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "CPMD",
+      "link": "",
+      "description": "Car-Parrinello Molecular Dynamics",
+      "author": "",
+      "license": "Academic",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "QMCPACK",
+      "link": "",
+      "description": "Quantum Monte Carlo package",
+      "author": "",
+      "license": "UIUC",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "MILC",
+      "link": "",
+      "description": "MIMD Lattice QCD",
+      "author": "",
+      "license": "GPL",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Octopus",
+      "link": "",
+      "description": "Real-space TDDFT code",
+      "author": "",
+      "license": "GPL",
+      "category": "Quantum",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Quantum Espresso",
+      "link": "",
+      "description": "Electronic structure calculations",
+      "author": "",
+      "license": "GPL",
+      "category": "Materials",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GPAW",
+      "link": "",
+      "description": "Grid-based projector-augmented wave method",
+      "author": "",
+      "license": "GPL",
+      "category": "Materials",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ADCIRC",
+      "link": "",
+      "description": "Advanced Circulation Model for coastal hydrodynamics",
+      "author": "",
+      "license": "LGPL",
+      "category": "Materials",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "NEMO5",
+      "link": "",
+      "description": "Nanoelectronics Modeling Tool",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Materials",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "VPIC",
+      "link": "",
+      "description": "Vector Particle-in-Cell for plasma",
+      "author": "",
+      "license": "BSD",
+      "category": "Simulation",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "GENE",
+      "link": "",
+      "description": "Gyrokinetic plasma simulator for fusion",
+      "author": "",
+      "license": "GPL",
+      "category": "Simulation",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "OpenMC",
+      "link": "",
+      "description": "Monte Carlo particle transport",
+      "author": "",
+      "license": "MIT",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "MATLAB",
+      "link": "",
+      "description": "Mathematical computing environment",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "HPC Repast",
+      "link": "",
+      "description": "Agent-based modeling for HPC",
+      "author": "",
+      "license": "New BSD",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Charm++",
+      "link": "",
+      "description": "Parallel programming framework",
+      "author": "",
+      "license": "BSD",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ArrayFire",
+      "link": "",
+      "description": "GPU-accelerated computing library",
+      "author": "",
+      "license": "BSD",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Eigen",
+      "link": "",
+      "description": "C++ template library for linear algebra",
+      "author": "",
+      "license": "MPL2",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Julia",
+      "link": "",
+      "description": "High-level language for technical computing",
+      "author": "",
+      "license": "MIT",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Mathematica",
+      "link": "",
+      "description": "Symbolic technical computing",
+      "author": "",
+      "license": "Proprietary",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "MAGMA",
+      "link": "",
+      "description": "Dense linear algebra for heterogeneous arch",
+      "author": "",
+      "license": "Custom",
+      "category": "Math/Computing",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Adaptiv Analytics",
+      "link": "",
+      "description": "Pricing and risk engine",
+      "author": "",
+      "license": "Custom",
+      "category": "Finance",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "Oneview",
+      "link": "",
+      "description": "Forward Monte Carlo for capital markets",
+      "author": "",
+      "license": "Custom",
+      "category": "Finance",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "SciFinance",
+      "link": "",
+      "description": "Derivative pricing",
+      "author": "",
+      "license": "Custom",
+      "category": "Finance",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "NAG",
+      "link": "",
+      "description": "RNG, Brownian bridges, PDE solvers",
+      "author": "",
+      "license": "Custom",
+      "category": "Finance",
+      "motif": "Dense Linear Algebra (DLA)"
+    },
+    {
+      "name": "ELPA",
+      "link": "",
+      "description": "Eigensolvers for symmetric matrices",
+      "author": "",
+      "license": "Custom",
+      "category": "HPC Tools",
+      "motif": "Dense Linear Algebra (DLA)"
+    }
+  ],
+  "General / Infrastructure": [
+    {
+      "name": "HPCC",
+      "link": "",
+      "description": "HPC Challenge benchmark suite",
+      "author": "",
+      "license": "BSD",
+      "category": "Benchmarking",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "top500",
+      "link": "",
+      "description": "Top500 supercomputer benchmark list",
+      "author": "",
+      "license": "Custom",
+      "category": "Benchmarking",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "green500",
+      "link": "",
+      "description": "Green500 energy-efficiency ranking",
+      "author": "",
+      "license": "Custom",
+      "category": "Benchmarking",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "MBDyn",
+      "link": "",
+      "description": "Command-line multi-body dynamics",
+      "author": "",
+      "license": "GPL",
+      "category": "Multi-body",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "ORSA",
+      "link": "",
+      "description": "Orbit Reconstruction Simulation and Analysis",
+      "author": "",
+      "license": "GPL",
+      "category": "Multi-body",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "SLURM",
+      "link": "",
+      "description": "Configurable open source workload manager",
+      "author": "",
+      "license": "Open Source",
+      "category": "HPC Tools",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "CMake",
+      "link": "",
+      "description": "Cross-platform build system",
+      "author": "",
+      "license": "Custom",
+      "category": "HPC Tools",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "HPCtoolkit",
+      "link": "",
+      "description": "Performance analysis for parallel programs",
+      "author": "",
+      "license": "Custom",
+      "category": "HPC Tools",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "PAPI",
+      "link": "",
+      "description": "Portable hardware counter interface",
+      "author": "",
+      "license": "Custom",
+      "category": "HPC Tools",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "TAU",
+      "link": "",
+      "description": "Profiling toolkit for parallel programs",
+      "author": "",
+      "license": "Custom",
+      "category": "HPC Tools",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "VESC",
+      "link": "",
+      "description": "Open-source motor controller / robotics",
+      "author": "",
+      "license": "Custom",
+      "category": "Embedded",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "CAN bus",
+      "link": "",
+      "description": "Controller Area Network protocol",
+      "author": "",
+      "license": "Custom",
+      "category": "Embedded",
+      "motif": "General / Infrastructure"
+    },
+    {
+      "name": "Whisplay",
+      "link": "",
+      "description": "Pocket-sized AI chatbot on RISC-V/RPi",
+      "author": "",
+      "license": "GPLv3",
+      "category": "Embedded",
+      "motif": "General / Infrastructure"
+    }
+  ],
+  "Sparse / Graph": [
+    {
+      "name": "Graph500",
+      "link": "",
+      "description": "Large-scale graph analysis benchmark",
+      "author": "",
+      "license": "Open Source",
+      "category": "Benchmarking",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "RAxML",
+      "link": "",
+      "description": "Phylogenetic tool for large datasets",
+      "author": "",
+      "license": "GPL",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "POY",
+      "link": "",
+      "description": "Phylogenetic analysis software",
+      "author": "",
+      "license": "GPL-2.0",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "BORN",
+      "link": "",
+      "description": "Bayesian inference of species networks",
+      "author": "",
+      "license": "MIT",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "MrBayes",
+      "link": "",
+      "description": "Bayesian inference of phylogeny",
+      "author": "",
+      "license": "GPL",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "Trinity",
+      "link": "",
+      "description": "RNA-Seq de novo assembly",
+      "author": "",
+      "license": "BSD",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "ParConnect",
+      "link": "",
+      "description": "Connected components in large graphs",
+      "author": "",
+      "license": "Open Source",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "POP",
+      "link": "",
+      "description": "Population genetics software",
+      "author": "",
+      "license": "GPL",
+      "category": "Bioinformatics",
+      "motif": "Sparse / Graph"
+    },
+    {
+      "name": "GraphLab",
+      "link": "",
+      "description": "Graph-based high-performance ML",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "Sparse / Graph"
+    }
+  ],
+  "MapReduce / Data Parallel": [
+    {
+      "name": "TPC-C",
+      "link": "",
+      "description": "OLTP benchmark",
+      "author": "",
+      "license": "Custom",
+      "category": "Benchmarking",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "TPC-DI",
+      "link": "",
+      "description": "Data Integration ETL benchmark",
+      "author": "",
+      "license": "Custom",
+      "category": "Benchmarking",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "TPC-E",
+      "link": "",
+      "description": "OLTP brokerage workload benchmark",
+      "author": "",
+      "license": "Custom",
+      "category": "Benchmarking",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "Horovod",
+      "link": "",
+      "description": "Distributed deep learning training framework",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "Numba",
+      "link": "",
+      "description": "Python array compiler for GPU speed",
+      "author": "",
+      "license": "Custom",
+      "category": "Data Science",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "BlazingSQL",
+      "link": "",
+      "description": "GPU-accelerated SQL engine",
+      "author": "",
+      "license": "Custom",
+      "category": "Data Science",
+      "motif": "MapReduce / Data Parallel"
+    },
+    {
+      "name": "GPUdb",
+      "link": "",
+      "description": "Multi-GPU distributed object store with SQL",
+      "author": "",
+      "license": "Custom",
+      "category": "Data Science",
+      "motif": "MapReduce / Data Parallel"
+    }
+  ],
+  "Mesh / Geometry": [
+    {
+      "name": "Splotch",
+      "link": "",
+      "description": "Visualization for astrophysical datasets",
+      "author": "",
+      "license": "GPLv3",
+      "category": "Visualization",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "NETGEN",
+      "link": "",
+      "description": "Automatic 2D/3D mesh generator",
+      "author": "",
+      "license": "LGPL",
+      "category": "Pre/Post CAD",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "enGrid",
+      "link": "",
+      "description": "Automatic mesh generator",
+      "author": "",
+      "license": "GPL",
+      "category": "Pre/Post CAD",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "MeshLab",
+      "link": "",
+      "description": "Processing of unstructured 3D meshes",
+      "author": "",
+      "license": "GPL",
+      "category": "Pre/Post CAD",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "Paraview",
+      "link": "",
+      "description": "Parallel visualization application",
+      "author": "",
+      "license": "several",
+      "category": "Visualization",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "VisIt",
+      "link": "",
+      "description": "Parallel visualization tool",
+      "author": "",
+      "license": "BSD",
+      "category": "Visualization",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "MayaVi",
+      "link": "",
+      "description": "Data visualization based on VTK",
+      "author": "",
+      "license": "BSD",
+      "category": "Visualization",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "BRL-CAD",
+      "link": "",
+      "description": "CSG CAD system for US military",
+      "author": "",
+      "license": "GPL",
+      "category": "Pre/Post CAD",
+      "motif": "Mesh / Geometry"
+    },
+    {
+      "name": "QCad",
+      "link": "",
+      "description": "2D general CAD using Qt",
+      "author": "",
+      "license": "GPL",
+      "category": "Pre/Post CAD",
+      "motif": "Mesh / Geometry"
+    }
+  ],
+  "N-Body / Particle": [
+    {
+      "name": "FLASH",
+      "link": "",
+      "description": "Multi-physics astrophysical simulation",
+      "author": "",
+      "license": "Academic",
+      "category": "Astrophysics",
+      "motif": "N-Body / Particle"
+    },
+    {
+      "name": "GADGET",
+      "link": "",
+      "description": "Cosmological N-body simulation",
+      "author": "",
+      "license": "GPL",
+      "category": "Astrophysics",
+      "motif": "N-Body / Particle"
+    },
+    {
+      "name": "ChaNGa",
+      "link": "",
+      "description": "N-body cosmology simulator with Charm++",
+      "author": "",
+      "license": "Academic",
+      "category": "Astrophysics",
+      "motif": "N-Body / Particle"
+    }
+  ],
+  "Element-wise / Reduction": [
+    {
+      "name": "BERT-AI",
+      "link": "",
+      "description": "Bidirectional Encoder Representations from Transformers",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Apache MXNet",
+      "link": "",
+      "description": "Open-source deep learning framework",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "PyTorch",
+      "link": "",
+      "description": "Deep learning framework for research and production",
+      "author": "",
+      "license": "BSD",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "TensorFlow",
+      "link": "",
+      "description": "ML/DL framework for CPU/GPU computation",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "JAX",
+      "link": "",
+      "description": "High-performance ML research with XLA",
+      "author": "",
+      "license": "Apache 2.0",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Keras",
+      "link": "",
+      "description": "Minimalist modular neural networks library",
+      "author": "",
+      "license": "Open Source",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "MatConvNet",
+      "link": "",
+      "description": "CNNs for MATLAB",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "MXNet",
+      "link": "",
+      "description": "Deep learning for efficiency and flexibility",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Neon",
+      "link": "",
+      "description": "Fast scalable Python DL framework",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "NVCaffe",
+      "link": "",
+      "description": "Caffe deep learning framework",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "PaddlePaddle",
+      "link": "",
+      "description": "Easy-to-use scalable DL platform",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Theano",
+      "link": "",
+      "description": "Symbolic expression compiler for large-scale ML",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Caffe2",
+      "link": "",
+      "description": "Fast deep learning framework",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "CNTK",
+      "link": "",
+      "description": "Microsoft toolkit for deep neural networks",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Chainer",
+      "link": "",
+      "description": "Flexible intuitive DL framework",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Deeplearning4j",
+      "link": "",
+      "description": "Deep learning for the JVM",
+      "author": "",
+      "license": "Custom",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Torch7",
+      "link": "",
+      "description": "ML and computer vision IDE",
+      "author": "",
+      "license": "Open Source",
+      "category": "ML / AI",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Handbrake",
+      "link": "",
+      "description": "Open-source video transcoder",
+      "author": "",
+      "license": "GPL",
+      "category": "Media/Video",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "OBS",
+      "link": "",
+      "description": "Video recording and live streaming",
+      "author": "",
+      "license": "Open Source",
+      "category": "Media/Video",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Daniel2",
+      "link": "",
+      "description": "CUDA accelerated video codec",
+      "author": "",
+      "license": "Custom",
+      "category": "Media/Video",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Unreal Engine",
+      "link": "",
+      "description": "Unreal engine (Epic Games/Fortnite)",
+      "author": "",
+      "license": "Custom",
+      "category": "Video Games",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "Carmack games",
+      "link": "",
+      "description": "Open-source id Software games (Doom, Quake)",
+      "author": "",
+      "license": "GPL",
+      "category": "Video Games",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "CuPy",
+      "link": "",
+      "description": "GPU-accelerated NumPy-compatible library",
+      "author": "",
+      "license": "Custom",
+      "category": "Data Science",
+      "motif": "Element-wise / Reduction"
+    },
+    {
+      "name": "H2O4GPU",
+      "link": "",
+      "description": "GPU-accelerated ML platform",
+      "author": "",
+      "license": "Custom",
+      "category": "Data Science",
+      "motif": "Element-wise / Reduction"
+    }
+  ]
+}
