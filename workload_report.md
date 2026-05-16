@@ -4,8 +4,7 @@
 ## Summary
 
 | # | Motif | Apps | % of Total |
-|--:|-------|-----:|-----------:|
-
+|--:|:---|-----:|-----------:|
 | 1 | Stencil / PDE | 64 | 34.0% |
 | 2 | Dense Linear Algebra (DLA) | 59 | 31.4% |
 | 3 | Element-wise / Reduction | 24 | 12.8% |
@@ -21,7 +20,6 @@
 
 | Kernel Motif | Underlying Operations | Optimisation Focus | RISC-V Notes |
 |---|---|---|---|
-
 | **Dense Linear Algebra (DLA)** | GEMM, GEMV, LU, Cholesky, QR, Eigensolvers | Register tiling, RVV vectorisation, L1/L2 cache blocking, BLAS-3 kernel reuse | Primary RVV target; VLEN-512 achieves ~90 % peak on GEMM. Use RISC-V V intrinsics for inner loop. |
 | **Stencil / PDE** | N-point stencil averaging, halo exchange, 3-D/4-D grid iteration, AMR | Cache blocking, prefetching, memory-bandwidth bound, data alignment, MPI halo | Bandwidth-bound; use RVV gather for irregular stencils. Benefit from large VLEN for unit-stride sweeps. |
 | **Spectral / FFT** | FFT, butterfly networks, convolution, spectral differentiation | Cache reuse, bit-reversal, twiddle-factor caching, RVV butterfly | Implement Cooley-Tukey with RVV; target radix-8 for VLEN≥512. Mixed-radix for non-power-of-2. |
